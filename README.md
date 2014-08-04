@@ -10,6 +10,7 @@ Over the years, computer and console games have achieved a high level of photore
 sophistication of the behaviour of non-player characters. However, due to the hardware limitations
 of mobile devices, there is a noticeable lack of games featuring intelligent enemies in mobile game
 markets.
+
 In order to develop a highly competitive game, a number of artificial intelligence techniques
 have been implemented and optimised specifically for devices of lower computational power to
 create realistically acting agents. These techniques include simple, as well as more complex methods, based on relatively recent publications and approaches used by advanced and well-known
